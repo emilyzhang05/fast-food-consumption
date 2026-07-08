@@ -1,0 +1,194 @@
+[
+  {
+    "flagCode": "US",
+    "country": "United States",
+    "FastFoodConsumptionRanking_2022": 1,
+    "AnnualFastFoodRevenue_2023": 799850000
+  },
+  {
+    "flagCode": "GB",
+    "country": "United Kingdom",
+    "FastFoodConsumptionRanking_2022": 2,
+    "AnnualFastFoodRevenue_2023": 164400000
+  },
+  {
+    "flagCode": "FR",
+    "country": "France",
+    "FastFoodConsumptionRanking_2022": 3,
+    "AnnualFastFoodRevenue_2023": 203910000
+  },
+  {
+    "flagCode": "SE",
+    "country": "Sweden",
+    "FastFoodConsumptionRanking_2022": 4,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "AT",
+    "country": "Austria",
+    "FastFoodConsumptionRanking_2022": 5,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "MX",
+    "country": "Mexico",
+    "FastFoodConsumptionRanking_2022": 6,
+    "AnnualFastFoodRevenue_2023": 201380000
+  },
+  {
+    "flagCode": "KR",
+    "country": "South Korea",
+    "FastFoodConsumptionRanking_2022": 7,
+    "AnnualFastFoodRevenue_2023": 125830000
+  },
+  {
+    "flagCode": "GR",
+    "country": "Greece",
+    "FastFoodConsumptionRanking_2022": 8,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "CN",
+    "country": "China",
+    "FastFoodConsumptionRanking_2022": 9,
+    "AnnualFastFoodRevenue_2023": 1474400000
+  },
+  {
+    "flagCode": "NO",
+    "country": "Norway",
+    "FastFoodConsumptionRanking_2022": 10,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "IT",
+    "country": "Italy",
+    "FastFoodConsumptionRanking_2022": 11,
+    "AnnualFastFoodRevenue_2023": 185420000
+  },
+  {
+    "flagCode": "AU",
+    "country": "Australia",
+    "FastFoodConsumptionRanking_2022": 12,
+    "AnnualFastFoodRevenue_2023": 87660000
+  },
+  {
+    "flagCode": "IN",
+    "country": "India",
+    "FastFoodConsumptionRanking_2022": 13,
+    "AnnualFastFoodRevenue_2023": 814290000
+  },
+  {
+    "flagCode": "RU",
+    "country": "Russia",
+    "FastFoodConsumptionRanking_2022": 14,
+    "AnnualFastFoodRevenue_2023": 229270000
+  },
+  {
+    "flagCode": "CH",
+    "country": "Switzerland",
+    "FastFoodConsumptionRanking_2022": 15,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "PT",
+    "country": "Portugal",
+    "FastFoodConsumptionRanking_2022": 16,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "JP",
+    "country": "Japan",
+    "FastFoodConsumptionRanking_2022": 17,
+    "AnnualFastFoodRevenue_2023": 403380000
+  },
+  {
+    "flagCode": "FI",
+    "country": "Finland",
+    "FastFoodConsumptionRanking_2022": 18,
+    "AnnualFastFoodRevenue_2023": null
+  },
+  {
+    "flagCode": "CA",
+    "country": "Canada",
+    "FastFoodConsumptionRanking_2022": 19,
+    "AnnualFastFoodRevenue_2023": 124270000
+  },
+  {
+    "flagCode": "DE",
+    "country": "Germany",
+    "FastFoodConsumptionRanking_2022": 20,
+    "AnnualFastFoodRevenue_2023": 237360000
+  },
+  {
+    "flagCode": "PK",
+    "country": "Pakistan",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 106480000
+  },
+  {
+    "flagCode": "NG",
+    "country": "Nigeria",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 183940000
+  },
+  {
+    "flagCode": "BR",
+    "country": "Brazil",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 168010000
+  },
+  {
+    "flagCode": "BD",
+    "country": "Bangladesh",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 134510000
+  },
+  {
+    "flagCode": "EG",
+    "country": "Egypt",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 150330000
+  },
+  {
+    "flagCode": "PH",
+    "country": "Philippines",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 127940000
+  },
+  {
+    "flagCode": "VN",
+    "country": "Vietnam",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 85060000
+  },
+  {
+    "flagCode": "TR",
+    "country": "Turkey",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 120640000
+  },
+  {
+    "flagCode": "TH",
+    "country": "Thailand",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 67590000
+  },
+  {
+    "flagCode": "ES",
+    "country": "Spain",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 115680000
+  },
+  {
+    "flagCode": "PL",
+    "country": "Poland",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 68970000
+  },
+  {
+    "flagCode": null,
+    "country": "Total",
+    "FastFoodConsumptionRanking_2022": null,
+    "AnnualFastFoodRevenue_2023": 6380570000
+  }
+]

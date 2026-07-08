@@ -1,0 +1,218 @@
+economy,year,economy_code,prevalence_overweight
+Afghanistan,2022,AFG,48.57
+Albania,2022,ALB,62.16
+Algeria,2022,DZA,57.62
+American Samoa,2022,ASM,91.41
+Andorra,2022,AND,48.17
+Angola,2022,AGO,31.78
+Antigua and Barbuda,2022,ATG,62.67
+Argentina,2022,ARG,68.42
+Armenia,2022,ARM,55.43
+Aruba,2022,ABW,
+Australia,2022,AUS,63.96
+Austria,2022,AUT,44.99
+Azerbaijan,2022,AZE,61.68
+"Bahamas, The",2022,BHS,75.79
+Bahrain,2022,BHR,68.69
+Bangladesh,2022,BGD,27.02
+Barbados,2022,BRB,67.16
+Belarus,2022,BLR,55.42
+Belgium,2022,BEL,51.08
+Belize,2022,BLZ,72.78
+Benin,2022,BEN,30.08
+Bermuda,2022,BMU,62.5
+Bhutan,2022,BTN,46.68
+Bolivia,2022,BOL,65.14
+Bosnia and Herzegovina,2022,BIH,56.86
+Botswana,2022,BWA,41.99
+Brazil,2022,BRA,63
+British Virgin Islands,2022,VGB,
+Brunei Darussalam,2022,BRN,69.63
+Bulgaria,2022,BGR,51.95
+Burkina Faso,2022,BFA,21.7
+Burundi,2022,BDI,16.31
+Cabo Verde,2022,CPV,46.69
+Cambodia,2022,KHM,25.14
+Cameroon,2022,CMR,39.47
+Canada,2022,CAN,59.15
+Cayman Islands,2022,CYM,
+Central African Republic,2022,CAF,23.67
+Chad,2022,TCD,21.43
+Channel Islands,2022,CHI,
+Chile,2022,CHL,78.79
+China,2022,CHN,37.46
+Colombia,2022,COL,59.72
+Comoros,2022,COM,42.88
+"Congo, Dem. Rep.",2022,COD,21.79
+"Congo, Rep.",2022,COG,24.16
+Costa Rica,2022,CRI,66.94
+Cote d'Ivoire,2022,CIV,34.54
+Croatia,2022,HRV,64.22
+Cuba,2022,CUB,55.56
+Curacao,2022,CUW,
+Cyprus,2022,CYP,53.82
+Czechia,2022,CZE,59.54
+Denmark,2022,DNK,44.91
+Djibouti,2022,DJI,29.77
+Dominica,2022,DMA,59.01
+Dominican Republic,2022,DOM,63.31
+Ecuador,2022,ECU,66.75
+"Egypt, Arab Rep.",2022,EGY,73.35
+El Salvador,2022,SLV,66.17
+Equatorial Guinea,2022,GNQ,39.51
+Eritrea,2022,ERI,17.21
+Estonia,2022,EST,57.21
+Eswatini,2022,SWZ,57.14
+Ethiopia,2022,ETH,10.87
+Faroe Islands,2022,FRO,
+Fiji,2022,FJI,65.79
+Finland,2022,FIN,55.28
+France,2022,FRA,34.29
+French Polynesia,2022,PYF,73.57
+Gabon,2022,GAB,46.9
+"Gambia, The",2022,GMB,40.94
+Georgia,2022,GEO,65.75
+Germany,2022,DEU,53.82
+Ghana,2022,GHA,36.73
+Gibraltar,2022,GIB,
+Greece,2022,GRC,61.44
+Greenland,2022,GRL,58.98
+Grenada,2022,GRD,59.93
+Guam,2022,GUM,
+Guatemala,2022,GTM,63.22
+Guinea,2022,GIN,28.55
+Guinea-Bissau,2022,GNB,32.12
+Guyana,2022,GUY,56.42
+Haiti,2022,HTI,29.88
+Honduras,2022,HND,63.76
+"Hong Kong SAR, China",2022,HKG,
+Hungary,2022,HUN,62.17
+Iceland,2022,ISL,57.37
+India,2022,IND,29.48
+Indonesia,2022,IDN,38.08
+"Iran, Islamic Rep.",2022,IRN,60.38
+Iraq,2022,IRQ,73.25
+Ireland,2022,IRL,64.74
+Isle of Man,2022,IMN,
+Israel,2022,ISR,54.34
+Italy,2022,ITA,49.15
+Jamaica,2022,JAM,61.09
+Japan,2022,JPN,24.04
+Jordan,2022,JOR,69.85
+Kazakhstan,2022,KAZ,53.13
+Kenya,2022,KEN,33.71
+Kiribati,2022,KIR,79.14
+"Korea, Dem. People's Rep.",2022,PRK,37.01
+"Korea, Rep.",2022,KOR,35.89
+Kosovo,2022,XKX,
+Kuwait,2022,KWT,77.75
+Kyrgyz Republic,2022,KGZ,58.12
+Lao PDR,2022,LAO,31.02
+Latvia,2022,LVA,59.32
+Lebanon,2022,LBN,65.05
+Lesotho,2022,LSO,42.27
+Liberia,2022,LBR,37.93
+Libya,2022,LBY,67.61
+Liechtenstein,2022,LIE,
+Lithuania,2022,LTU,58.67
+Luxembourg,2022,LUX,51.52
+"Macao SAR, China",2022,MAC,
+Madagascar,2022,MDG,16.97
+Malawi,2022,MWI,24.29
+Malaysia,2022,MYS,54.93
+Maldives,2022,MDV,52.54
+Mali,2022,MLI,33.29
+Malta,2022,MLT,64.66
+Marshall Islands,2022,MHL,73.19
+Mauritania,2022,MRT,47.19
+Mauritius,2022,MUS,51.12
+Mexico,2022,MEX,73.38
+"Micronesia, Fed. Sts.",2022,FSM,71.71
+Moldova,2022,MDA,61.19
+Monaco,2022,MCO,
+Mongolia,2022,MNG,58.1
+Montenegro,2022,MNE,49.98
+Morocco,2022,MAR,54.95
+Mozambique,2022,MOZ,27.16
+Myanmar,2022,MMR,27.04
+Namibia,2022,NAM,36.52
+Nauru,2022,NRU,88.84
+Nepal,2022,NPL,30.9
+Netherlands,2022,NLD,45.93
+New Caledonia,2022,NCL,
+New Zealand,2022,NZL,67.44
+Nicaragua,2022,NIC,67.22
+Niger,2022,NER,18
+Nigeria,2022,NGA,34.27
+North Macedonia,2022,MKD,61.82
+Northern Mariana Islands,2022,MNP,
+Norway,2022,NOR,57.48
+Oman,2022,OMN,66.16
+Pakistan,2022,PAK,54.82
+Palau,2022,PLW,71.33
+Panama,2022,PAN,71.6
+Papua New Guinea,2022,PNG,51.36
+Paraguay,2022,PRY,69.11
+Peru,2022,PER,68.09
+Philippines,2022,PHL,35
+Poland,2022,POL,62.74
+Portugal,2022,PRT,54.68
+Puerto Rico,2022,PRI,73.53
+Qatar,2022,QAT,76.6
+Romania,2022,ROU,65.08
+Russian Federation,2022,RUS,58.76
+Rwanda,2022,RWA,19.79
+Samoa,2022,WSM,87.68
+San Marino,2022,SMR,
+Sao Tome and Principe,2022,STP,42.62
+Saudi Arabia,2022,SAU,71.84
+Senegal,2022,SEN,30.21
+Serbia,2022,SRB,54.27
+Seychelles,2022,SYC,60.77
+Sierra Leone,2022,SLE,22.81
+Singapore,2022,SGP,40.73
+Sint Maarten (Dutch part),2022,SXM,
+Slovak Republic,2022,SVK,60.56
+Slovenia,2022,SVN,54.85
+Solomon Islands,2022,SLB,56.93
+Somalia,2022,SOM,34.86
+South Africa,2022,ZAF,55.05
+South Sudan,2022,SSD,24.2
+Spain,2022,ESP,49.9
+Sri Lanka,2022,LKA,38.78
+St. Kitts and Nevis,2022,KNA,75.46
+St. Lucia,2022,LCA,62.58
+St. Martin (French part),2022,MAF,
+St. Vincent and the Grenadines,2022,VCT,61.51
+Sudan,2022,SDN,38.92
+Suriname,2022,SUR,58.12
+Sweden,2022,SWE,50.55
+Switzerland,2022,CHE,40.58
+Syrian Arab Republic,2022,SYR,71.11
+Tajikistan,2022,TJK,58.85
+Tanzania,2022,TZA,32.24
+Thailand,2022,THA,45.68
+Timor-Leste,2022,TLS,14.37
+Togo,2022,TGO,31
+Tonga,2022,TON,90.39
+Trinidad and Tobago,2022,TTO,57.67
+Tunisia,2022,TUN,57.37
+Turkiye,2022,TUR,67.57
+Turkmenistan,2022,TKM,56.98
+Turks and Caicos Islands,2022,TCA,
+Tuvalu,2022,TUV,85.77
+Uganda,2022,UGA,23.75
+Ukraine,2022,UKR,56.13
+United Arab Emirates,2022,ARE,71.33
+United Kingdom,2022,GBR,61.42
+United States,2022,USA,72.43
+Uruguay,2022,URY,67.59
+Uzbekistan,2022,UZB,62.46
+Vanuatu,2022,VUT,51.32
+"Venezuela, RB",2022,VEN,53.48
+Vietnam,2022,VNM,18.21
+Virgin Islands (U.S.),2022,VIR,
+West Bank and Gaza,2022,PSE,68.8
+"Yemen, Rep.",2022,YEM,37.34
+Zambia,2022,ZMB,29.9
+Zimbabwe,2022,ZWE,34.46
