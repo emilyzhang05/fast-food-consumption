@@ -23,17 +23,6 @@ The project was completed as part of the BC2402 group project and includes SQL q
 - Tableau for dashboarding and stakeholder-facing visualizations
 - CSV and JSON datasets for country-level and menu-level analysis
 
-## Repository Structure
-
-```text
-.
-├── data/
-│   └── raw/                 # Source CSV and JSON datasets
-├── docs/                    # Final group project report
-├── scripts/                 # MongoDB queries and aggregation pipelines
-├── sql/                     # SQL analysis queries
-└── README.md
-```
 
 ## Included Files
 
@@ -50,6 +39,3 @@ The project was completed as part of the BC2402 group project and includes SQL q
 - Ranked food items and categories using nutrition indicators such as calories, fat, sodium, cholesterol, protein, and health scores.
 - Implemented equivalent analysis logic in both SQL and MongoDB to compare relational and NoSQL workflows.
 
-## Suggested GitHub Description
-
-SQL, MongoDB, and Tableau analysis of fast food consumption, obesity, physical activity, and health trends across countries.
